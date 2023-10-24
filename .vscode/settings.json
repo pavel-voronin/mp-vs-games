@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "chartjs",
+    "Nuxt",
+    "nuxtjs",
+    "postcss",
+    "registerables",
+    "tailwindcss"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
